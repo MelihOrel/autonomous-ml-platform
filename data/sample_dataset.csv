@@ -1,0 +1,301 @@
+age,income,credit_score,years_employed,num_dependents,education,home_owner,region,loan_status
+58,,550,6.7,5,High School,Yes,West,Approved
+32,45827.73,503,21.5,5,PhD,Yes,West,Approved
+18,50587.22,732,10.2,1,Bachelor,No,North,Approved
+40,24037.09,770,16.1,3,High School,No,East,Approved
+20,33597.2,381,25.7,0,PhD,No,West,Approved
+41,33532.17,373,18.3,1,Bachelor,Yes,West,Approved
+58,45197.82,632,25.3,0,Bachelor,Yes,East,Approved
+54,61159.42,811,11.9,5,PhD,Yes,East,Approved
+52,48091.93,708,10.9,1,PhD,Yes,North,Approved
+28,54926.48,365,11.5,4,PhD,No,North,Denied
+52,50169.85,648,3.3,3,Bachelor,No,North,Denied
+34,80022.89,819,27.4,5,Master,Yes,South,Approved
+67,85613.34,631,14.7,0,Master,No,South,Approved
+23,67831.15,370,29.3,4,Bachelor,Yes,West,Approved
+51,63133.94,516,27.9,5,Bachelor,No,West,Approved
+46,,553,6.7,2,High School,Yes,South,Denied
+21,55157.29,638,2.1,1,Master,No,South,Approved
+54,38079.53,784,24.2,1,High School,Yes,West,Approved
+64,74701.89,400,1.8,5,Master,Yes,South,Denied
+26,37172.0,555,26.2,0,PhD,Yes,North,Approved
+18,90336.99,542,5.0,3,PhD,Yes,West,Approved
+18,64070.95,765,8.6,5,PhD,Yes,South,Approved
+55,49428.66,621,1.7,4,PhD,Yes,North,Denied
+29,56136.98,540,12.1,4,Bachelor,Yes,North,Approved
+51,44332.63,621,7.2,3,Bachelor,No,West,Approved
+22,75036.41,402,2.2,1,Master,Yes,East,Approved
+41,45784.92,609,18.4,5,High School,No,North,Approved
+25,72809.39,459,8.2,4,Bachelor,No,South,Denied
+50,12000,352,2.8,3,Master,Yes,North,Denied
+34,60251.95,737,16.8,0,High School,Yes,North,Approved
+27,45241.84,673,27.0,0,Master,Yes,South,Approved
+53,,458,27.8,1,Bachelor,Yes,West,Approved
+39,53747.05,554,8.0,5,High School,No,North,Denied
+70,64553.21,533,6.7,5,Bachelor,No,East,Denied
+67,45308.27,709,20.4,4,Master,Yes,North,Approved
+55,63749.37,411,17.9,2,Master,No,North,Approved
+34,68521.54,832,27.8,4,Bachelor,No,West,Approved
+39,31001.18,427,21.6,2,Master,No,East,Denied
+26,59512.05,688,20.3,1,Master,No,North,Approved
+68,26995.85,776,13.3,5,Bachelor,No,South,Approved
+60,,540,20.2,1,Bachelor,Yes,North,Approved
+57,54105.13,724,26.6,4,Bachelor,No,West,Approved
+62,79995.51,409,23.4,1,Bachelor,No,North,Approved
+25,18838.04,843,29.6,4,Master,No,West,Approved
+28,49186.03,565,22.6,5,Master,No,South,Approved
+36,51584.1,382,4.2,1,PhD,Yes,South,Approved
+52,,730,11.7,4,High School,No,West,Approved
+66,20762.53,729,16.1,5,Bachelor,No,South,Approved
+42,36018.81,714,21.7,3,Bachelor,Yes,West,Approved
+23,43933.82,772,5.5,2,PhD,No,South,Approved
+42,42187.05,731,7.6,0,PhD,Yes,North,Approved
+59,91066.18,341,22.6,1,Bachelor,Yes,South,Approved
+25,38383.92,562,23.0,1,,Yes,East,Approved
+37,15052.84,684,11.9,5,Bachelor,Yes,South,Denied
+61,,342,10.4,3,Master,Yes,East,Denied
+49,86103.12,770,21.2,3,Bachelor,No,West,Approved
+55,45944.25,388,8.4,3,Bachelor,No,West,Approved
+38,55161.81,564,10.2,4,Master,Yes,South,Approved
+49,37448.17,787,19.4,3,PhD,Yes,North,Approved
+33,41782.36,784,16.6,2,PhD,No,East,Approved
+34,53509.64,623,3.6,4,Bachelor,Yes,South,Approved
+55,71715.57,589,29.4,1,,Yes,East,Approved
+52,53846.17,355,16.6,5,Bachelor,No,North,Approved
+48,33716.65,352,7.6,3,High School,Yes,West,Denied
+61,59657.34,611,2.6,1,High School,No,South,Approved
+46,42967.69,739,9.2,4,High School,Yes,South,Approved
+23,,376,4.7,3,PhD,No,East,Denied
+36,44235.08,539,27.7,5,Bachelor,No,North,Approved
+35,53208.74,469,23.8,4,Master,No,North,Approved
+43,69847.02,805,13.1,4,,No,East,Approved
+32,83249.54,321,30.0,5,Master,Yes,South,Approved
+35,59966.41,803,29.1,3,Master,No,East,Approved
+28,36690.92,595,19.9,3,High School,No,North,Approved
+67,32163.97,301,19.7,4,PhD,No,North,Approved
+66,30556.38,352,6.1,4,Bachelor,No,West,Denied
+19,74313.32,545,21.3,2,High School,No,North,Approved
+25,41264.21,457,15.0,5,Master,No,West,Approved
+33,40306.79,495,27.7,4,Bachelor,Yes,East,Approved
+39,69627.52,302,8.5,2,PhD,Yes,West,Denied
+53,51415.28,629,26.1,5,Bachelor,No,South,Approved
+38,49064.17,690,11.6,5,Bachelor,No,North,Denied
+39,75038.97,750,3.0,3,High School,Yes,West,Approved
+22,12000,646,18.7,3,High School,No,West,Approved
+66,27600.56,370,7.0,5,Master,Yes,North,Denied
+58,47633.21,470,20.8,0,High School,No,North,Approved
+27,50676.22,484,5.1,0,PhD,Yes,West,Approved
+47,37069.62,309,27.0,3,Master,Yes,North,Approved
+55,36006.12,556,13.7,2,Bachelor,No,West,Approved
+40,12000,602,0.7,5,PhD,No,North,Denied
+65,89014.78,808,25.0,2,Bachelor,No,South,Approved
+61,,440,18.8,5,High School,No,West,Denied
+26,62703.52,725,5.3,1,Master,No,South,Approved
+48,64739.65,646,24.1,3,High School,Yes,South,Approved
+43,81840.81,674,2.7,3,High School,No,North,Approved
+61,48654.11,680,3.3,1,PhD,Yes,East,Approved
+22,36739.05,609,19.5,0,Bachelor,Yes,North,Approved
+24,52131.75,697,13.6,5,PhD,Yes,West,Approved
+57,12891.53,333,20.7,1,PhD,No,South,Approved
+61,23936.64,667,1.8,2,Bachelor,Yes,West,Approved
+58,46935.13,641,7.3,1,Bachelor,Yes,South,Approved
+32,45180.92,302,8.3,1,Bachelor,No,South,Denied
+26,81661.68,543,17.7,0,Bachelor,No,North,Approved
+25,49442.51,670,15.4,0,PhD,Yes,North,Approved
+60,30257.24,331,1.8,3,PhD,No,North,Denied
+22,62797.71,451,2.0,2,Master,No,East,Denied
+24,52373.47,520,12.9,1,PhD,No,West,Approved
+38,26144.66,683,28.6,5,PhD,Yes,North,Approved
+24,49409.16,433,16.7,4,Master,Yes,West,Denied
+66,14555.55,352,29.1,4,Master,No,North,Approved
+60,15323.19,658,25.4,2,High School,No,South,Approved
+67,60346.14,326,18.3,5,Master,Yes,South,Denied
+39,43246.64,446,17.0,3,High School,Yes,North,Approved
+42,35605.57,678,9.3,2,High School,Yes,South,Approved
+61,66973.32,734,14.6,3,PhD,No,South,Approved
+45,70788.89,798,15.8,2,High School,Yes,West,Approved
+31,46063.16,440,22.9,2,Master,Yes,North,Approved
+26,29509.85,812,16.8,5,Master,Yes,West,Approved
+19,42982.9,620,17.3,4,,No,East,Approved
+38,70607.71,771,25.0,2,High School,No,North,Approved
+51,82042.12,647,6.6,1,High School,Yes,South,Approved
+64,75033.19,451,7.1,1,Master,Yes,South,Approved
+59,89383.74,805,13.9,4,PhD,No,East,Approved
+46,,357,10.6,0,Master,No,West,Denied
+36,81872.18,392,18.5,4,PhD,No,North,Approved
+59,59283.34,813,4.5,0,PhD,Yes,East,Approved
+59,56350.99,748,29.7,4,Bachelor,No,East,Approved
+67,37192.21,642,2.0,0,PhD,No,East,Approved
+56,61337.75,444,27.5,2,PhD,Yes,North,Approved
+68,45544.52,839,2.8,5,PhD,No,North,Approved
+31,33276.77,496,6.8,1,Bachelor,Yes,East,Approved
+67,21428.04,839,1.1,2,Bachelor,No,South,Approved
+67,22482.36,748,1.3,2,Bachelor,No,East,Denied
+32,34862.04,780,27.1,1,Master,No,West,Approved
+50,12000,504,24.0,1,Master,Yes,West,Approved
+24,44792.95,427,8.6,1,Master,No,South,Denied
+32,65223.43,327,12.4,3,Master,Yes,West,Denied
+19,46560.52,643,23.7,1,High School,No,West,Approved
+63,25585.25,381,0.6,1,Bachelor,No,North,Denied
+25,67943.66,768,1.9,3,,Yes,South,Approved
+40,51107.17,387,15.7,2,High School,Yes,West,Approved
+42,63671.2,316,10.7,0,Master,Yes,North,Approved
+39,61219.54,646,24.4,1,PhD,No,South,Approved
+67,54634.65,506,1.3,1,High School,No,East,Denied
+52,45151.64,495,8.6,0,Master,No,North,Approved
+43,48394.76,695,10.2,1,PhD,No,East,Denied
+69,66429.4,740,18.1,1,Master,No,North,Approved
+37,23010.21,470,20.7,2,PhD,Yes,East,Approved
+58,93412.38,376,20.1,3,Master,Yes,North,Approved
+68,41345.82,541,23.4,2,Master,No,North,Approved
+41,28808.73,440,15.9,3,,No,South,Approved
+29,32192.69,420,7.9,2,PhD,Yes,East,Denied
+30,75283.57,762,5.2,5,PhD,Yes,East,Approved
+53,13399.83,461,21.4,5,Bachelor,No,South,Denied
+26,51749.0,669,16.6,2,PhD,Yes,North,Approved
+63,45727.12,719,24.7,0,Bachelor,No,North,Approved
+40,73416.67,486,23.0,1,PhD,Yes,North,Approved
+28,37525.91,654,28.4,4,Master,Yes,East,Approved
+35,60799.19,846,2.8,5,Bachelor,Yes,South,Approved
+56,28626.0,342,24.8,0,High School,Yes,East,Approved
+44,46709.69,596,19.3,2,PhD,Yes,West,Approved
+21,60186.57,775,6.1,4,Bachelor,No,East,Approved
+43,61794.9,408,9.6,3,High School,No,West,Approved
+36,83869.78,728,7.4,1,Master,No,South,Approved
+50,13801.93,809,0.7,3,PhD,Yes,South,Approved
+36,12780.89,781,8.6,0,High School,No,South,Approved
+66,45503.87,352,17.1,1,Master,No,North,Approved
+53,39954.33,421,3.9,0,PhD,No,East,Approved
+27,56756.31,812,1.2,0,Bachelor,No,West,Approved
+50,76602.61,626,4.9,4,Master,No,West,Approved
+70,66058.36,412,29.4,4,Master,Yes,West,Approved
+67,,352,17.5,1,PhD,Yes,South,Approved
+25,57057.93,728,4.5,5,Bachelor,No,West,Approved
+21,44028.87,632,29.9,3,PhD,No,South,Approved
+52,31139.51,570,18.3,1,Bachelor,No,East,Approved
+37,53730.38,800,9.5,2,Master,No,North,Approved
+43,68646.07,449,8.7,2,High School,No,West,Denied
+31,56640.82,578,4.1,4,Bachelor,Yes,North,Approved
+58,50890.27,638,21.5,0,Bachelor,Yes,South,Approved
+48,38113.81,594,9.6,5,High School,Yes,South,Approved
+20,59548.31,480,28.0,0,PhD,No,South,Approved
+36,51755.74,409,27.9,2,Master,No,West,Approved
+50,,415,9.9,5,PhD,No,South,Denied
+36,22415.78,479,18.3,5,PhD,No,East,Denied
+29,70372.4,554,0.2,3,Bachelor,No,East,Approved
+64,37426.96,668,20.8,0,High School,No,East,Approved
+63,53426.83,602,11.0,1,Bachelor,Yes,West,Approved
+56,30368.06,782,22.7,5,Bachelor,Yes,North,Approved
+41,70460.66,363,24.9,4,Bachelor,Yes,South,Approved
+25,37872.01,800,2.7,4,PhD,Yes,West,Denied
+54,68748.5,615,21.7,3,Master,Yes,South,Approved
+40,43108.56,361,28.0,0,PhD,Yes,East,Approved
+67,31667.36,730,11.2,3,PhD,No,West,Approved
+52,73953.43,421,5.4,4,PhD,Yes,South,Approved
+37,22087.2,734,16.0,1,Bachelor,No,East,Approved
+64,50447.63,729,18.4,0,,Yes,North,Approved
+56,32818.06,550,22.2,3,PhD,Yes,South,Denied
+26,35129.58,626,17.3,5,Master,Yes,East,Approved
+51,,362,16.7,4,Bachelor,No,West,Approved
+59,35011.3,626,20.9,3,Bachelor,No,West,Approved
+33,58898.08,447,24.2,0,PhD,No,South,Approved
+39,25412.17,679,2.8,5,Bachelor,Yes,East,Denied
+20,58146.71,522,14.4,2,Master,Yes,South,Approved
+25,49408.64,548,20.9,5,Bachelor,No,South,Approved
+42,24546.28,615,7.8,4,PhD,No,North,Approved
+66,71324.52,679,9.4,0,Bachelor,Yes,North,Approved
+55,47179.85,500,9.9,3,Bachelor,No,East,Denied
+64,36845.91,472,22.0,2,Bachelor,Yes,West,Approved
+59,71143.9,376,28.4,5,High School,Yes,West,Approved
+22,,817,13.7,0,PhD,No,North,Approved
+18,78650.36,848,29.3,0,PhD,Yes,North,Approved
+33,57852.97,662,8.0,3,High School,No,West,Approved
+62,54128.96,382,19.6,5,High School,Yes,West,Approved
+21,31687.69,384,15.0,3,Master,Yes,North,Denied
+62,65554.06,347,27.7,5,Master,Yes,South,Approved
+31,24315.65,707,27.9,2,Bachelor,Yes,West,Approved
+42,50348.28,380,15.0,2,High School,Yes,West,Denied
+56,55337.71,706,29.1,2,High School,No,West,Approved
+42,25291.11,689,2.6,4,Master,Yes,North,Approved
+63,52202.14,698,9.5,0,High School,Yes,East,Approved
+24,57803.78,759,16.7,4,PhD,Yes,North,Approved
+56,36988.52,694,0.4,3,PhD,Yes,South,Denied
+42,56902.54,574,14.8,0,Bachelor,No,East,Approved
+22,22197.96,807,17.8,1,PhD,Yes,South,Approved
+39,59579.04,637,13.2,3,Bachelor,No,East,Approved
+48,31742.23,626,8.7,5,PhD,Yes,East,Approved
+43,22390.64,504,17.8,4,Bachelor,Yes,West,Approved
+69,42898.3,718,20.2,1,Master,Yes,East,Approved
+68,35929.41,790,17.5,4,PhD,Yes,East,Approved
+56,45097.89,554,19.7,2,Bachelor,Yes,West,Approved
+68,47624.98,564,6.7,5,Bachelor,No,East,Denied
+55,46238.37,325,14.5,2,PhD,Yes,North,Denied
+40,42477.01,511,15.6,2,PhD,Yes,West,Approved
+22,39808.01,417,0.7,2,High School,Yes,South,Approved
+39,12000,537,23.9,5,Bachelor,Yes,West,Denied
+30,31877.16,304,21.1,1,Master,Yes,North,Approved
+41,40852.05,568,20.1,3,Master,No,West,Approved
+47,25572.68,604,27.6,4,High School,Yes,East,Approved
+29,43048.18,697,12.5,1,PhD,No,South,Approved
+59,60066.65,470,14.7,1,Bachelor,No,West,Approved
+18,38195.27,693,28.9,4,PhD,No,West,Approved
+49,61544.61,525,8.8,2,Bachelor,No,South,Approved
+67,52270.64,415,17.2,2,Master,Yes,West,Denied
+24,47695.31,553,8.9,0,PhD,No,East,Denied
+25,52122.7,659,25.8,4,PhD,Yes,South,Approved
+69,65581.77,587,17.9,1,Master,No,East,Approved
+50,77033.8,397,4.1,3,High School,No,South,Denied
+27,41881.43,702,14.7,4,Master,No,West,Approved
+67,68069.82,584,20.8,2,PhD,No,East,Approved
+64,90154.72,666,25.5,4,PhD,Yes,West,Approved
+38,57723.25,433,17.0,3,Master,Yes,North,Approved
+47,91231.73,461,13.2,0,PhD,Yes,South,Approved
+35,64174.82,384,11.2,5,Bachelor,Yes,West,Approved
+66,52613.65,397,0.0,3,High School,Yes,South,Denied
+18,38878.12,732,20.8,3,High School,Yes,West,Approved
+24,35604.22,440,11.5,1,Bachelor,Yes,North,Approved
+40,45636.72,455,27.6,4,PhD,Yes,North,Approved
+25,35013.23,739,9.4,1,Bachelor,No,North,Approved
+64,25603.46,327,25.4,5,Master,Yes,South,Denied
+21,56742.15,545,14.8,0,Bachelor,No,North,Approved
+41,,730,11.0,5,Bachelor,No,North,Approved
+34,58696.64,707,15.2,5,PhD,No,West,Approved
+57,54317.8,380,15.3,1,Bachelor,No,West,Approved
+59,47205.32,747,21.9,1,High School,Yes,North,Approved
+57,37996.57,479,3.6,5,Bachelor,Yes,South,Denied
+51,55916.6,470,11.2,5,Master,Yes,North,Denied
+51,76156.39,378,14.9,4,Master,Yes,West,Approved
+28,49730.39,418,6.9,4,High School,Yes,North,Denied
+42,59913.33,336,16.6,5,PhD,Yes,East,Denied
+38,49034.67,681,3.6,5,High School,Yes,South,Approved
+43,,589,23.2,2,Master,Yes,West,Approved
+54,56351.88,548,13.9,4,PhD,Yes,South,Denied
+19,51770.08,309,28.5,0,PhD,No,North,Approved
+44,43681.56,445,21.3,0,High School,Yes,West,Approved
+65,56947.21,436,19.1,3,High School,Yes,West,Approved
+36,48919.55,702,21.0,5,Master,No,West,Approved
+30,70250.38,411,4.7,1,PhD,No,East,Approved
+67,54065.44,571,25.6,0,Bachelor,No,North,Approved
+27,,664,11.9,0,Master,No,South,Approved
+46,28640.61,396,13.9,1,High School,Yes,North,Denied
+26,55830.31,386,17.5,2,High School,Yes,North,Approved
+69,76955.26,639,3.7,3,High School,Yes,West,Approved
+19,35938.89,662,6.4,1,,No,West,Approved
+57,30722.7,810,12.4,4,PhD,Yes,North,Approved
+30,29919.81,555,18.9,4,High School,No,East,Denied
+40,68145.11,697,8.1,0,Master,Yes,North,Approved
+21,57325.2,666,23.0,1,Bachelor,Yes,South,Approved
+70,57538.1,524,17.3,3,Master,Yes,South,Approved
+65,37115.25,328,21.1,2,Bachelor,Yes,West,Denied
+20,61048.23,524,0.6,3,High School,No,South,Approved
+29,80291.59,631,1.8,1,Bachelor,Yes,East,Approved
+60,43416.65,609,9.7,1,PhD,No,East,Approved
+62,69089.33,665,6.7,4,Bachelor,No,East,Approved
+29,44180.36,700,25.5,4,High School,Yes,East,Approved
+32,44605.49,808,4.2,5,High School,Yes,East,Approved
+23,61665.26,643,13.4,2,Bachelor,Yes,North,Approved
+64,67775.88,729,29.1,3,PhD,No,East,Approved
+48,55697.65,530,4.9,0,High School,No,North,Denied
+22,29461.07,464,22.0,4,High School,No,West,Approved
+59,69242.49,460,1.6,2,Bachelor,Yes,West,Approved
+64,24375.06,604,7.1,0,,No,South,Approved
